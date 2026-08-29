@@ -13,7 +13,7 @@ Operation One ESP script built with the prodordie UI framework.
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3heyem/Operation-One/refs/heads/main/Operation%20One"))()
 ```
-Press F5 to open or close the menu.
+Press F5 to open the UI (this can be changed in the Settings tab).
 
 ## Support
 Message @prodordie on Discord.
